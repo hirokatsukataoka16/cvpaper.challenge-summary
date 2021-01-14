@@ -236,7 +236,7 @@
 
 ## 招待講演
 
-* コンピュータビジョンの観点からみたAIの公平性（SSII 2020 招待インタラクティブ発表） [[HP]](https://confit.atlas.jp/guide/event/ssii2020/static/invited_interactive#IS2) [[slide]](https://www.slideshare.net/cvpaperchallenge/adversarial-examples-229232499)
+* Adversarial Examples 研究動向（SSII 2020 招待インタラクティブ発表） [[HP]](https://confit.atlas.jp/guide/event/ssii2020/static/invited_interactive#IS2) [[slide]](https://www.slideshare.net/cvpaperchallenge/adversarial-examples-229232499)
 * コンピュータビジョンの観点からみたAIの公平性（SSII 2020 招待インタラクティブ発表） [[HP]](https://confit.atlas.jp/guide/event/ssii2020/static/invited_interactive#IS1) [[slide]](https://www.slideshare.net/cvpaperchallenge/ai-229094219)
 * CV分野の今を映すcvpaper.challengeの取り組み（SSII 2018 招待インタラクティブ発表 2018年6月） [[HP]](https://confit.atlas.jp/guide/event/ssii2018/static/invited_interactive) [[poster]](http://hirokatsukataoka.net/temp/cvpaper.challenge/ssii2018_poster.pdf)
 * CVPR 2018 速報とその後（CVPR 2018 完全読破チャレンジ報告会 2018年9月）[[slide]](https://www.slideshare.net/cvpaperchallenge/cvpr-2018-cvpr-2018)

@@ -3,7 +3,7 @@
 
 ## Table of contents
 
-* [HP/SNS](#hp/sns)
+* [HP](#hp)
 * [研究機関](#研究機関)
 * [研究成果](#研究成果)
 * [データセット](#データセット)
@@ -15,7 +15,7 @@
 * [記事](#記事)
 * [その他](#その他)
 
-## HP/SNS
+## HP
 
 * [メインページ](http://xpaperchallenge.org/cv/)
 * [旧サイト](https://sites.google.com/site/cvpaperchallenge/home)
@@ -100,7 +100,7 @@
 ## データセット
 
 * FractalDB [[GitHub]](https://github.com/hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch)
-* Fashion Culture Database（FDDB） [[GitHub]](https://github.com/cvpaperchallenge/FashionCultureDataBase_DLoader)
+* Fashion Culture Database（FCDB） [[GitHub]](https://github.com/cvpaperchallenge/FashionCultureDataBase_DLoader)
 * BoketeDB（非公開）
 * Traffic Near-miss Incident Database（NIDB; 非公開）
 

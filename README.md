@@ -120,7 +120,7 @@
 		* Weakly Supervised Dataset Collection (arXiv) [[PDF]](https://arxiv.org/abs/2003.12263)
 		* Fashion Culture Database (CVPR 2019 WS) [[PDF]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Kataoka_Ten-Million-Order_Human_Database_for_World-Wide_Fashion_Culture_Analysis_CVPRW_2019_paper.pdf) [[Oral]](http://hirokatsukataoka.net/pdf/cvprw19_kataoka_fcdb_oral.pdf) [[Poster]](http://hirokatsukataoka.net/pdf/cvprw19_kataoka_fcdb_poster.pdf) [[GitHub]](https://github.com/cvpaperchallenge/FashionCultureDataBase_DLoader)
 
-* FDDB Group
+* FDDB Group [[Project Page]](https://hirokatsukataoka16.github.io/Formula-Driven-DataBase-Group/)
 	* Group Leader: 片岡裕雄 [[HP]](http://hirokatsukataoka.net/) [[Scholar]](https://scholar.google.com.au/citations?user=f1CePVQAAAAJ&hl=en) [[Twitter]](https://twitter.com/hirokatukataoka) [[GitHub]](https://github.com/hirokatsukataoka16) [[YouTube]](https://www.youtube.com/channel/UCieS-nGsYW2hdj2SSG3MDnA)
 	* Formula-Driven DataBaseでFDDB Group。画像パターンおよび画像カテゴリを自動で生成して大規模事前学習データセットを生成する数式ドリブン教師あり学習を研究。その他、自己教師学習などの学習戦略についても検討を行う。
 	* 主な成果
